@@ -9,7 +9,7 @@ A full-stack junior web developer specialising in the front-end. My background c
 
 Having recently completed the intensive 12 weeks of [Makers Academy](https://github.com/makersacademy), I have grown from an interested amateur coder into a competent and confident junior developer.
 
-I am currently looking to take on a career in the tech scene of London or Brighton, where I can further expand my knowledge in Full-Stack and Front-End development and design.
+I am currently looking to take on a career in the tech scene of London, where I can further expand my knowledge in Full-Stack and Front-End development and design.
 ***
 
 ### <a name="skills">Skills</a>
