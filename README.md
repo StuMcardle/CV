@@ -32,12 +32,12 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 [Acebook][3] | A Facebook clone written as part of Makers Academy's project | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][6] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][3] | Ruby, Rails, Postgres /w ActiveRecord, Bootstrap, HTML, CSS | RSpec, Capybara
 [Hot Potato][4] | A test-driven Airbnb clone that introduced me to PostgreSQL | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][7] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][4] | Ruby, Postgres /w ActiveRecord, OAuth, Devise, HTML5(HAML), CSS | RSpec, Capybara
 
-*All source code available on Github: [https://github.com/stumcardle][1]
+Check out the source code on Github: [https://github.com/stumcardle][1]
 
 
 ### <a name="skills">Education</a>
 
-#### Makers Academy (July 2016 to September 2016)
+#### Makers Academy (April 2021 – July 2021)
 Highly selective 12 week intensive coding bootcamp.
 
 - Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
@@ -49,17 +49,17 @@ Highly selective 12 week intensive coding bootcamp.
 - Experience with MVC framework patterns
 - Final project: Betwixt | A powerful web app built for those who want to find the mid-point between two friends
 
-#### Havering Sixth Form College (September 1999 to July 2002)
+#### Havering Sixth Form College (2012 - 2014)
 
-BA Hons Fine Art, specialising in Photography and Digital Imaging
+Fineart, Textiles, Graphic design, Product design and Interior design
 
 ***
 
 ### <a name="experience">Experience</a>
 
-**Smoko Web Design** (September 2010 to July 2016)    
+**Smoko Web Design** (October 2018 – December 2020)    
 *Owner & Head Designer* 
-As a freelance digital photography professional I was a self-starter and worked in a variety of challenging, detail-oriented rolls. I was a photographer, retoucher, consultant tech support, digital shoot operator and photo assistant over the course of my career.
+As a self-taught graphic designer and wordpress web developer, I challenged myself to work on a variety of challenging, detail-oriented projects. I managed the design, sales, brand design, graphic design and tech support whilst Smoko Design existed.
 
 **Anyspaces** (March 2008 to September 2010)   
 *Senior Digital Operator & Systems Admin*  
@@ -82,7 +82,7 @@ Responsible for training digital shoot operators up for the high-pressure advert
 
 ### <a name="contact">Contact</a>
 - Github: [stumcardle][1]
-- Codewars http://www.codewars.com/users/lukecartledge
+- Codewars http://www.codewars.com/users/stuartmcardle
 - Portfolio: [stumcardle.com](http://www.stumcardle.com)
 
 [1]: https://github.com/stumcardle
